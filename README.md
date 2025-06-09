@@ -34,7 +34,6 @@
 
 ## Информация о датасете
 Для выполнения ДЗ был использован датасет **Diamonds Dataset**.<br>
-Ссылка на датасет: https://www.kaggle.com/code/heeraldedhia/regression-on-diamonds-dataset-95-score/input?select=diamonds.csv<br>
 В датасете находятся различная информация о бриллиантах.<br>
 Датасет включает 53940 записей, и 10 столбцов признаков.<br>
 
